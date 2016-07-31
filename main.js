@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 ReactDOM.render(
-  <App txt="this is text" />,
+  <App txt="text from input" />,
   document.getElementById('app')
 );
